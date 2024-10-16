@@ -1,5 +1,5 @@
 
-# DATE:
+## DATE:
 # EX-5: Find the square root of a number
 
 ## AIM:
